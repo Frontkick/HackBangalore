@@ -292,7 +292,7 @@ export default function Example() {
 
       <header className="relative bg-white">
         <p className="flex h-10 items-center justify-center bg-orange-600 px-4 text-sm font-medium text-white sm:px-6 lg:px-8">
-          Invest your Money with ease
+          EFFAITH - Invest your Money with ease
         </p>
 
         <nav aria-label="Top" className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
