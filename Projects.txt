@@ -1,0 +1,85 @@
+    Health and Wellness Projects:
+    A. Telehealth Solutions
+    B. Mental Health Apps
+
+    Environmental Sustainability Projects:
+    A. Energy Monitoring Systems
+    B. Waste Management Apps
+
+    Education Enhancement Projects:
+    A. E-Learning Platforms
+    B. Educational Games and Apps
+
+    Community Empowerment Projects:
+    A. Crowdfunding Platforms for Social Causes
+    B. Local Business Support Apps
+
+    Accessibility and Inclusion Projects:
+    A. Assistive Technology for the Disabled
+    B. Sign Language Translation Apps
+
+
+Subscription based paltform (decribes authentic platform)
+crowd funding
+document sharing
+virtual meeting
+Investors Panel
+type of org , Description of org, amount he/she wnated to invest, Analysis of Organization
+document sharing, virtual meeting, current invstments, analysis tools, data visuals,
+Risk factor
+
+Organization panel
+					
+impact, features, people witn their positions,
+organizaion history, ROI, Timeline, Diversification,
+competeton, stage of startup(capital), investment amount,
+location, scalability, videos and images, automated data collection
+Mentorship
+
+
+
+
+
+
+Database
+
+Investor:
+Investor_id
+Name
+contact_no
+mail_id
+Projects_invested
+type_of_investor
+Address
+Registration_date
+
+Organization:
+Org_id
+Title
+Image_url
+About
+Impact_Goals
+Team_Expertise
+Stage
+Enployees
+CEO
+Timeline(DateTime)
+
+Financial_Metrics:
+org_id
+Rating
+ROI
+
+Investor_org:
+
+org_id
+investor_id
+
+type_of_org:
+org_id
+type
+
+Location:
+Org_id
+Location
+
